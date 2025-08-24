@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <main>
+      <h1>Welcome to HelpHub247 🚀</h1>
+      <p>Click <a href="/chat">here</a> to start chatting.</p>
+    </main>
+  );
+}
